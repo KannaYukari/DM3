@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "6c6c3d47d0e347a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "32fa012b49a0b5f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f989f0fe80d17068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Jogadores/Octavus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Octavus"
+            }
+          },
+          {
+            "id": "f195d439c5766c72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Jogadores/Choco.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Choco"
+            }
+          },
+          {
+            "id": "57cad18b08220d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Autores/Ikimono Gakari.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ikimono Gakari"
+            }
+          },
+          {
+            "id": "0e44304c98c5cb78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Músicas/Bubbles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bubbles"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab8773bad598e949",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed13143b36571a84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea1ee029bfa1176f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "a7634e35a29df40a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7220b2be4fe7c829",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5954e46b189e28d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9b22b960ce90044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abfd5d6f1ede14f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2e614505983a6308",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1dadd237529f75d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7ca59cd4400c9aba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ea1ee029bfa1176f",
+  "lastOpenFiles": [
+    "content/Autores/jenny01.md",
+    "content/Autores/Ikimono Gakari.md",
+    "content/Músicas/Blue Bird.md",
+    "content/Músicas/Bubbles.md",
+    "content/Jogadores/Choco.md",
+    "templates/envio.md",
+    "content/Jogadores/Kanna.md",
+    "content/Músicas/Butter-Fly.md",
+    "content/Autores/Koji Wada.md",
+    "content/Jogadores/Buzo.md",
+    "content/Músicas/Ambitions and Visions (“Persona5：The Phantom X” Soundtrack).md",
+    "content/Autores/Lyn.md",
+    "content/Músicas/Aishite, Aishite, Aishite.md",
+    "content/Autores/Hastune Miku.md",
+    "content/Jogadores/Octavus.md",
+    "content/Autores/Ado.md",
+    "content/Músicas/Ai Ai A.md",
+    "content/Jogadores/Charlotte.md",
+    "content/Músicas/Addicted To You.md",
+    "content/Autores/3 Doors Down.md",
+    "content/index.md",
+    "content/Músicas/Zoltraak.md",
+    "content/Autores/Evan Call.md",
+    "content/Músicas/YOUTH.md",
+    "content/Autores/Rock Lady.md",
+    "content/Autores/Mudy on the 昨晩.md",
+    "Jogadores"
+  ]
+}
