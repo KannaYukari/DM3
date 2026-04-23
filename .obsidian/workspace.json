@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Autores/Ikimono Gakari.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ikimono Gakari"
+              "title": "index"
             }
           },
           {
@@ -210,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea1ee029bfa1176f",
+  "active": "57cad18b08220d81",
   "lastOpenFiles": [
-    "content/Autores/jenny01.md",
     "content/Autores/Ikimono Gakari.md",
+    "content/Autores/jenny01.md",
     "content/Músicas/Blue Bird.md",
     "content/Músicas/Bubbles.md",
     "content/Jogadores/Choco.md",
