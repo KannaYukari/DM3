@@ -8,5 +8,17 @@
 ## B - Bubbles
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jFaCvRajc8g?si=QF92EEYnf01xHlIq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [[../Músicas/Bubbles]]
-- **Autores:** [[../Autores/jenny01]]
+- **Música:** [Bubbles](../Músicas/Bubbles.md)
+- **Autores:** [jenny01](../Autores/jenny01.md)
+
+## C - CHOCOLAT
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SdF6b8dIh4g?si=uCuNAMlC9CM2vzkd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [CHOCOLAT](../Músicas/CHOCOLAT.md)
+- **Autores:** [TCY FORCE](../Autores/TCY%20FORCE.md) feat. [Mariya Ise](../Autores/Mariya%20Ise.md)
+
+## D - Dakara Doushita
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AhGSawo2AuU?si=p_-XID_jxdXD2a3R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Dakara Doushita](../Músicas/Dakara%20Doushita.md)
+- **Autores:** [Arukara](../Autores/Arukara.md)

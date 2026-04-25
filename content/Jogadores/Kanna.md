@@ -10,3 +10,15 @@
 
 - **Música:** [Butter-Fly](../Músicas/Butter-Fly.md)
 - **Autores:** [Koji Wada](../Autores/Koji%20Wada.md)
+
+## C - Carry on singing to the sky
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UlpAWv1PQ8w?si=BwbHoSZjjaK0w0_O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Carry on singing to the sky](../Músicas/Carry%20on%20singing%20to%20the%20sky.md)
+- **Autores:** [Unlucky Morpheus](../Autores/Unlucky%20Morpheus.md)
+
+## D - DROPOUT!?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G5qZBZJPiVo?si=jWMrLaM4lZb0xhli" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [DROPOUT!?](../Músicas/DROPOUT!?.md)
+- **Autores:** [Saint Snow](../Autores/Saint%20Snow.md)

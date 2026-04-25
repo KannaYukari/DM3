@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "32fa012b49a0b5f1",
+        "id": "548fe6b469133a27",
         "type": "tabs",
         "children": [
           {
-            "id": "f989f0fe80d17068",
+            "id": "ffc90cf96a4b742c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Jogadores/Octavus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Octavus"
-            }
-          },
-          {
-            "id": "f195d439c5766c72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Jogadores/Choco.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Choco"
-            }
-          },
-          {
-            "id": "57cad18b08220d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "0e44304c98c5cb78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Músicas/Bubbles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bubbles"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,34 +163,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57cad18b08220d81",
+  "active": "ffc90cf96a4b742c",
   "lastOpenFiles": [
-    "content/Autores/Ikimono Gakari.md",
-    "content/Autores/jenny01.md",
-    "content/Músicas/Blue Bird.md",
-    "content/Músicas/Bubbles.md",
-    "content/Jogadores/Choco.md",
-    "templates/envio.md",
+    "content/Autores/Hironobu Kageyama.md",
+    "content/Músicas/Click.md",
+    "content/Músicas/Dakara Doushita.md",
+    "content/Músicas/Bamboo disco.md",
+    "content/Autores/Aimer.md",
+    "content/Autores/Saint Snow.md",
+    "content/Músicas/DROPOUT!?.md",
     "content/Jogadores/Kanna.md",
-    "content/Músicas/Butter-Fly.md",
-    "content/Autores/Koji Wada.md",
+    "content/Jogadores/Choco.md",
+    "content/Autores/Arukara.md",
+    "content/Músicas/Dou Kangaetemo Watashi wa Warukunai.md",
+    "content/Autores/Izumi Kitta.md",
     "content/Jogadores/Buzo.md",
-    "content/Músicas/Ambitions and Visions (“Persona5：The Phantom X” Soundtrack).md",
-    "content/Autores/Lyn.md",
-    "content/Músicas/Aishite, Aishite, Aishite.md",
-    "content/Autores/Hastune Miku.md",
+    "templates/envio.md",
+    "content/Autores/ClariS.md",
+    "content/Jogadores/Harkett.md",
     "content/Jogadores/Octavus.md",
-    "content/Autores/Ado.md",
-    "content/Músicas/Ai Ai A.md",
-    "content/Jogadores/Charlotte.md",
-    "content/Músicas/Addicted To You.md",
-    "content/Autores/3 Doors Down.md",
+    "content/Músicas/Carry on singing to the sky.md",
+    "content/Autores/Unlucky Morpheus.md",
+    "content/Músicas/CHOCOLAT.md",
+    "content/Autores/TCY FORCE.md",
+    "content/Autores/Mariya Ise.md",
+    "content/Músicas/Catch the Moment.md",
+    "content/Autores/LiSA.md",
+    "content/Jogadores/Gench.md",
     "content/index.md",
-    "content/Músicas/Zoltraak.md",
-    "content/Autores/Evan Call.md",
-    "content/Músicas/YOUTH.md",
-    "content/Autores/Rock Lady.md",
-    "content/Autores/Mudy on the 昨晩.md",
     "Jogadores"
   ]
 }

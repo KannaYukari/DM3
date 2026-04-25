@@ -14,4 +14,6 @@ Regras da brincadeira:
 - [Octavus](Jogadores/Octavus.md)
 - [Choco](Jogadores/Choco.md)
 - [Buzo](Jogadores/Buzo.md)
+- [Harkett](Jogadores/Harkett.md)
+- [Gench](Jogadores/Gench.md)
 
