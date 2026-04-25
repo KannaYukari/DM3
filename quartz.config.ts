@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Desafio musical 2",
+    pageTitle: "Desafio musical 3",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: false,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pt-BR",
-    baseUrl: "kannayukari.github.io/DM2",
+    baseUrl: "kannayukari.github.io/DM3",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
