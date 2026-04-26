@@ -22,3 +22,9 @@
 
 - **Música:** [DROPOUT!?](../Músicas/DROPOUT!?.md)
 - **Autores:** [Saint Snow](../Autores/Saint%20Snow.md)
+
+## E - Egao no Kanata
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w46DBTXKBps?si=1pVKcQTC7pyyV5vp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Egao no Kanata](../Músicas/Egao%20no%20Kanata.md)
+- **Autores:** [Chiho](../Autores/Chiho.md) feat. [majiko](../Autores/majiko.md)
