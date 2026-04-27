@@ -22,3 +22,9 @@
 
 - **Música:** [Ender Ember](../Músicas/Ender%20Ember.md)
 - **Autores:** [MYTH & ROID](../Autores/MYTH%20&%20ROID.md) feat. [TK](../Autores/TK.md) ([Ling Tosite Sigure](../Autores/Ling%20Tosite%20Sigure.md))
+
+## F - F・L・Y
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A-8fdRq2W9w?si=ZrU_-I6kXYL1V5fF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [F・L・Y](../Músicas/F・L・Y.md)
+- **Autores:** [SPECTRUM](../Autores/SPECTRUM.md)

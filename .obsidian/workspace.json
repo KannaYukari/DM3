@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d13e0bf5438dd70",
+            "id": "b80020c725726df4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Jogadores/Kanna.md",
+                "file": "content/Autores/KennyDoes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kanna"
-            }
-          },
-          {
-            "id": "579409e064d0a30e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Músicas/Egao no Kanata.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Egao no Kanata"
-            }
-          },
-          {
-            "id": "2baf931b7652b4aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Autores/Chiho.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chiho"
-            }
-          },
-          {
-            "id": "4cb34e0de7a2fde1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Jogadores/Octavus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Octavus"
+              "title": "KennyDoes"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,34 +167,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cb34e0de7a2fde1",
+  "active": "ea1ee029bfa1176f",
   "lastOpenFiles": [
+    "content/Músicas/Fuwa Fuwa Time.md",
+    "content/Músicas/Futari no Kisetsu Ga.md",
+    "content/Músicas/ENAMEL.md",
+    "content/Autores/Cosaqu.md",
+    "content/Autores/KOPERU.md",
+    "content/Autores/TAKE‐M.md",
+    "content/Autores/KennyDoes.md",
+    "content/Autores/Peko.md",
+    "content/Músicas/FLOOR KILLER.md",
     "content/Jogadores/Kanna.md",
+    "content/Autores/Ho-Kago Tea Time.md",
     "content/Jogadores/Harkett.md",
-    "content/Jogadores/Gench.md",
-    "content/Jogadores/Choco.md",
     "content/Jogadores/Buzo.md",
+    "content/Músicas/F・L・Y.md",
+    "content/Autores/SPECTRUM.md",
+    "content/Autores/Nozomi Sasaki.md",
+    "content/Jogadores/Choco.md",
+    "templates/envio.md",
+    "content/Autores/SID.md",
+    "content/Músicas/EVER RED.md",
+    "content/Autores/Fragaria Memories.md",
+    "content/Jogadores/Octavus.md",
+    "content/Jogadores/Gench.md",
     "content/Autores/Ling Tosite Sigure.md",
     "content/Autores/Eve.md",
     "content/Músicas/D-TecnoLife.md",
-    "content/Autores/Aqua Timez.md",
-    "content/Autores/majiko.md",
-    "content/Autores/Chiho.md",
-    "content/Músicas/Egao no Kanata.md",
-    "content/Autores/MYTH & ROID.md",
-    "content/Autores/TK.md",
-    "content/Músicas/Ender Ember.md",
-    "content/Músicas/Eden.md",
-    "content/Músicas/Easy Breezy.md",
-    "content/Autores/Chelmico.md",
-    "content/Jogadores/Octavus.md",
-    "templates/envio.md",
-    "content/Músicas/Duvet.md",
-    "content/Autores/Bôa.md",
-    "content/Músicas/Dramaturgia.md",
-    "content/Autores/UVERworld.md",
-    "content/index.md",
-    "content/Autores/batta.md",
     "Jogadores"
   ]
 }
