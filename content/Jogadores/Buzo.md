@@ -28,3 +28,21 @@
 
 - **Música:** [F・L・Y](../Músicas/F・L・Y.md)
 - **Autores:** [SPECTRUM](../Autores/SPECTRUM.md)
+
+## G - Get Along
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fCoTZkFYAUM?si=t_dl-5pCn5RXgnZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Get Along](../Músicas/Get%20Along.md)
+- **Autores:** [Megumi Hayashibara](../Autores/Megumi%20Hayashibara.md) & [Masami Okui](../Autores/Masami%20Okui.md)
+
+## H - Hohoemi no Bakudan
+<iframe width="560" height="315" src="https://www.youtube.com/embed/urZWmEgm72Q?si=dgCI71sdm6sjrJJl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Hohoemi no Bakudan](../Músicas/Hohoemi%20no%20Bakudan.md)
+- **Autores:** [Mawatari Matsuko](../Autores/Mawatari%20Matsuko.md)
+
+## I - Idol
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZRtdQ81jPUQ?si=LRSlOH8Q3BJlfI92" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [[../Músicas/Idol]]
+- **Autores:** [YOASOBI](../Autores/YOASOBI.md)

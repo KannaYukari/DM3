@@ -40,3 +40,15 @@
 
 - **Música:** [Ghost Dance](../Músicas/Ghost%20Dance.md)
 - **Autores:** [LITE](../Autores/LITE.md)
+
+## H - Hello, how are you?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c2UO1f1Lmz0?si=c3mMrc8XHc1XerTC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Hello, how are you?](../Músicas/Hello,%20how%20are%20you?.md)
+- **Autores:** [Kano](../Autores/Kano.md)
+
+## I - Itte
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F64yFFnZfkI?si=d9hS14N6ifMe2Ut7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Itte](../Músicas/Itte.md)
+- **Autores:** [n-buna](../Autores/n-buna.md)

@@ -4,7 +4,7 @@
 - **Música:** [Catch the Moment](../Músicas/Catch%20the%20Moment.md)
 - **Autores:** [LiSA](../Autores/LiSA.md)
 
-t## D - D-TecnoLife
+## D - D-TecnoLife
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L-u3fkgZkO0?si=NHd34nI47xmSeEa1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **Música:** [D-TecnoLife](../Músicas/D-TecnoLife.md)
@@ -27,3 +27,14 @@ t## D - D-TecnoLife
 
 - **Música:** [Gokumahime](../Músicas/Gokumahime.md)
 - **Autores:** [Eeny, meeny, miny, moe?](../Autores/Eeny,%20meeny,%20miny,%20moe?.md)
+## H - HEART BEAT
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TBsOwaz5HRw?si=l2yaoJvG2-dQRDhW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [HEART BEAT](../Músicas/HEART%20BEAT.md)
+- **Autores:** [MARiA](../Autores/MARiA.md)
+
+## I - III
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eUJjeYVlEKA?si=mY5noBbj3mzbLfxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [III](../Músicas/III.md)
+- **Autores:** [Justen](../Autores/Justen.md) e [Sena](../Autores/Sena.md) (cover de: [Houshou Marine](../Autores/Houshou%20Marine.md), [Kobo Kanaeru](../Autores/Kobo%20Kanaeru.md), [GigaP](../Autores/GigaP.md))

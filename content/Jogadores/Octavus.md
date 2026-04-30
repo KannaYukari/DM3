@@ -34,3 +34,15 @@
 
 - **Música:** [Forever we can make it!](../Músicas/Forever%20we%20can%20make%20it!.md)
 - **Autores:** [THYME](../Autores/THYME.md)
+
+## G - Guess Who Is Back
+<iframe width="560" height="315" src="https://www.youtube.com/embed/URwMxNidO-8?si=UGgomDBtwgEPVVJB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Guess Who Is Back](../Músicas/Guess%20Who%20Is%20Back.md)
+- **Autores:** [Koda Kumi](../Autores/Koda%20Kumi.md)
+
+## H - Hologram
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o71vyLnNtBo?si=LXHSzlR7ElCtUtDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Hologram](../Músicas/Hologram.md)
+- **Autores:** [NICO Touches the Walls](../Autores/NICO%20Touches%20the%20Walls.md)

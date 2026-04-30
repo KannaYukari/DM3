@@ -28,3 +28,21 @@
 
 - **Música:** [Fuwa Fuwa Time](../Músicas/Fuwa%20Fuwa%20Time.md)
 - **Autores:** [Ho-Kago Tea Time](../Autores/Ho-Kago%20Tea%20Time.md)
+
+## G - Gekiyami Serenade
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x5Uow8vj6C0?si=U7yRgSjuzwV2Bc84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Gekiyami Serenade](../Músicas/Gekiyami%20Serenade.md)
+- **Autores:** [ACME](../Autores/ACME.md)
+
+## H - Horror
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y9gvnmq5IcM?si=318NP4Te9jWBcP4R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Horror](../Músicas/Horror.md)
+- **Autores:** [XAAXAA](../Autores/XAAXAA.md)
+
+## I - Inochi Ni Kirawareteiru
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eq8r1ZTma08?si=6nhqm9xk_dq-8cr-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Inochi Ni Kirawareteiru](../Músicas/Inochi%20Ni%20Kirawareteiru.md)
+- **Autores:** [MafuMafu](../Autores/MafuMafu.md)

@@ -34,3 +34,21 @@
 
 - **Música:** [Futari no Kisetsu Ga](../Músicas/Futari%20no%20Kisetsu%20Ga.md)
 - **Autores:** [Nozomi Sasaki](../Autores/Nozomi%20Sasaki.md)
+
+## G - Glitter Luv
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UZEusaiziKg?si=48ZcH1TxooNbU_iX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Glitter Luv](../Músicas/Glitter%20Luv.md)
+- **Autores:** [YUC'e](../Autores/YUC'e.md)
+
+## H - HOWLING AMBITION
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XYMoaMqyf6s?si=D0TRSxzSbD0U0pEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [HOWLING AMBITION](../Músicas/HOWLING%20AMBITION.md)
+- **Autores:** [RAISE A SUILEN](../Autores/RAISE%20A%20SUILEN.md)
+
+## I - Ironina
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LiYS214Qh5A?si=0hBTbXc2b7j_3Rl-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Ironina](../Músicas/Ironina.md)
+- **Autores:** [NILFRUITS](../Autores/NILFRUITS.md)/[Flower](../Autores/Flower.md)
