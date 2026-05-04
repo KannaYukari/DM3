@@ -68,5 +68,5 @@
 ## M - Monophobia
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DLMzmZ3JpME?si=WEmAsDn_OZ0XcYzR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Monophobia](Monophobia)
-- **Autores:** [Moi dix Mois](Moi%20dix%20Mois)
+- **Música:** [Monophobia](../Músicas/Monophobia.md)
+- **Autores:** [Moi dix Mois](../Autores/Moi%20dix%20Mois.md)

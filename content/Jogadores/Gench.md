@@ -60,5 +60,5 @@
 ## M - My War
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y-eoYLBbZOA?si=_oSTXRXywZvAEeq3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [My War](My%20War)
-- **Autores:** [Shinsei Kamattechan](Shinsei%20Kamattechan)
+- **Música:** [My War](../Músicas/My%20War.md)
+- **Autores:** [Shinsei Kamattechan](../Autores/Shinsei%20Kamattechan.md)
