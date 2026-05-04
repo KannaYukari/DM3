@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb5f06cd952d6e34",
+            "id": "0935f03a30ecbcfc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "content/Jogadores/Buzo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Buzo"
             }
           }
         ]
@@ -163,34 +167,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb5f06cd952d6e34",
+  "active": "0935f03a30ecbcfc",
   "lastOpenFiles": [
-    "content/Autores/Justen.md",
-    "content/Músicas/Idol.md",
-    "content/Músicas/HOWLING AMBITION.md",
-    "content/Músicas/Glitter Luv.md",
-    "content/Músicas/Horror.md",
-    "content/Músicas/HEART BEAT.md",
-    "content/Músicas/Gekiyami Serenade.md",
-    "content/Autores/ACME.md",
-    "content/Jogadores/Choco.md",
-    "content/Músicas/Ironina.md",
-    "content/Autores/NILFRUITS.md",
-    "content/Autores/Flower.md",
-    "content/Jogadores/Harkett.md",
-    "content/Autores/MafuMafu.md",
-    "content/Músicas/Inochi Ni Kirawareteiru.md",
-    "content/Jogadores/Gench.md",
-    "content/Músicas/III.md",
-    "content/Autores/Sena.md",
-    "content/Autores/Houshou Marine.md",
-    "content/Autores/Kobo Kanaeru.md",
-    "content/Autores/GigaP.md",
+    "Mayonaka no Door - stay with me.md",
+    "Miki Matsubara.md",
     "content/Jogadores/Buzo.md",
-    "content/Autores/YOASOBI.md",
+    "content/Jogadores/Choco.md",
+    "content/Jogadores/Harkett.md",
+    "Monophobia.md",
+    "Moi dix Mois.md",
+    "content/Jogadores/Gench.md",
+    "Shinsei Kamattechan.md",
+    "My War.md",
+    "Morning Grace.md",
+    "Ritsuko Okazaki.md",
+    "templates/envio.md",
+    "content/Autores/Yuko Matsutani.md",
+    "content/Músicas/Let It Out.md",
+    "content/Autores/Kumiko Noma.md",
+    "content/Músicas/Lost Umbrella.md",
+    "content/Autores/Inabakumori.md",
+    "content/Autores/Kaai Yuki.md",
+    "content/Autores/Miho Fukuhara.md",
+    "content/Músicas/LOST IN PARADISE.md",
+    "content/Autores/ALI.md",
+    "content/Autores/AKLO.md",
     "content/Jogadores/Kanna.md",
-    "content/Músicas/Itte.md",
-    "content/Autores/n-buna.md",
+    "content/Músicas/LIVE for LIFE.md",
+    "content/Autores/Aimi.md",
     "Jogadores"
   ]
 }

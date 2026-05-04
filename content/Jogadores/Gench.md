@@ -38,3 +38,27 @@
 
 - **Música:** [III](../Músicas/III.md)
 - **Autores:** [Justen](../Autores/Justen.md) e [Sena](../Autores/Sena.md) (cover de: [Houshou Marine](../Autores/Houshou%20Marine.md), [Kobo Kanaeru](../Autores/Kobo%20Kanaeru.md), [GigaP](../Autores/GigaP.md))
+
+## J - Just Awake
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ELuVDnlB8PE?si=BafILL56zBH_zXKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Just Awake](../Músicas/Just%20Awake.md)
+- **Autores:** [Fear and loathing in Las Vegas](../Autores/Fear%20and%20loathing%20in%20Las%20Vegas.md)
+
+## K - KICK BACK
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S09qwKoSHbM?si=bRylh3_vgz6tSalD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [KICK BACK](../Músicas/KICK%20BACK.md)
+- **Autores:** [Kenshi Yonezu](../Autores/Kenshi%20Yonezu.md)
+
+## L - Let It Out
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D1Cx8Zr3tfg?si=WoA4EI3eKOR7jr8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Let It Out](../Músicas/Let%20It%20Out.md)
+- **Autores:** [Miho Fukuhara](../Autores/Miho%20Fukuhara.md)
+
+## M - My War
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-eoYLBbZOA?si=_oSTXRXywZvAEeq3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [My War](My%20War)
+- **Autores:** [Shinsei Kamattechan](Shinsei%20Kamattechan)

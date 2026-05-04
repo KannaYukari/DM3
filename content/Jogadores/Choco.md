@@ -52,3 +52,27 @@
 
 - **Música:** [Ironina](../Músicas/Ironina.md)
 - **Autores:** [NILFRUITS](../Autores/NILFRUITS.md)/[Flower](../Autores/Flower.md)
+
+## J - Jack & Jeanne Of Quartz
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mr9oLOiDXEI?si=TWF-MmpfcSKZzaec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Jack & Jeanne Of Quartz](../Músicas/Jack%20&%20Jeanne%20Of%20Quartz.md)
+- **Autores:** [Yuka Terasaki](../Autores/Yuka%20Terasaki.md), [Takayuki Kondo](../Autores/Takayuki%20Kondo.md), [Jun Kasama](../Autores/Jun%20Kasama.md), [Daisuke Kishio](../Autores/Daisuke%20Kishio.md), [Gakuto Kajiwara](../Autores/Gakuto%20Kajiwara.md), [Yuma Uchida](../Autores/Yuma%20Uchida.md) e [Gen Sato](../Autores/Gen%20Sato.md)
+
+## K - Kamisama Onegai
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zgmgNUZUggg?si=2yKe-Nr-UyDjbxXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Kamisama Onegai](../Músicas/Kamisama%20Onegai.md)
+- **Autores:** [Hanae](../Autores/Hanae.md)
+
+## L - Lum no Love Song
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MBEgw_kfhzc?si=7gSGhYSEvotxWhVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Lum no Love Song](../Músicas/Lum%20no%20Love%20Song.md)
+- **Autores:** [Yuko Matsutani](../Autores/Yuko%20Matsutani.md)
+
+## M - Morning Grace
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tITsAJE-X7A?si=sBAEt4NJ4MMvvqLh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Morning Grace](Morning%20Grace)
+- **Autores:** [Ritsuko Okazaki](Ritsuko%20Okazaki)

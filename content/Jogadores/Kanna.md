@@ -52,3 +52,21 @@
 
 - **Música:** [Itte](../Músicas/Itte.md)
 - **Autores:** [n-buna](../Autores/n-buna.md)
+
+## J - Jasmine
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eg9_ymCEAF8?si=K8zH-zTOP4pGDEWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Jasmine](../Músicas/Jasmine.md)
+- **Autores:** [SHOW-GO](../Autores/SHOW-GO.md)
+
+## K - KANPAI FUNK
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oNS0oQ21DEg?si=TZIkjrVGQmJrFUSz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [KANPAI FUNK](../Músicas/KANPAI%20FUNK.md)
+- **Autores:** [Akiko Wada](../Autores/Akiko%20Wada.md)
+
+## L - LIVE for LIFE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KiDZhbA1eVE?si=D4iJO5Tb2_X1SZxh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [LIVE for LIFE](../Músicas/LIVE%20for%20LIFE.md)
+- **Autores:** [Aimi](../Autores/Aimi.md)

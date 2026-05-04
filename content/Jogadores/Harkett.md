@@ -46,3 +46,27 @@
 
 - **Música:** [Inochi Ni Kirawareteiru](../Músicas/Inochi%20Ni%20Kirawareteiru.md)
 - **Autores:** [MafuMafu](../Autores/MafuMafu.md)
+
+## J - John
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5vn8xcwNkgY?si=OpQuSNXVMRGbrhLP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [John](../Músicas/John.md)
+- **Autores:** [LM.C](../Autores/LM.C.md)
+
+## K - Kanadetomosusora
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GTlQhMRHXIg?si=QAvsCwlHsdfeuAvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Kanadetomosusora](../Músicas/Kanadetomosusora.md)
+- **Autores:** [nightcord at 25:00](../Autores/nightcord%20at%2025_00.md) e [Megurine Luka](../Autores/Megurine%20Luka.md)
+
+## L - Lost Umbrella
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DeKLpgzh-qQ?si=k6Kxmmk6P1ueqkGX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Lost Umbrella](../Músicas/Lost%20Umbrella.md)
+- **Autores:** [Inabakumori](../Autores/Inabakumori.md) e [Kaai Yuki](../Autores/Kaai%20Yuki.md)
+
+## M - Monophobia
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DLMzmZ3JpME?si=WEmAsDn_OZ0XcYzR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Monophobia](Monophobia)
+- **Autores:** [Moi dix Mois](Moi%20dix%20Mois)

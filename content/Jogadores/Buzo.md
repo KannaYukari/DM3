@@ -44,5 +44,29 @@
 ## I - Idol
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZRtdQ81jPUQ?si=LRSlOH8Q3BJlfI92" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [[../Músicas/Idol]]
+- **Música:** [Idol](../Músicas/Idol.md)
 - **Autores:** [YOASOBI](../Autores/YOASOBI.md)
+
+## J - Jiyuu no Tsubasa
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PbWFpzi8C94?si=wm_PpMnl4iTy3tuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Jiyuu no Tsubasa](../Músicas/Jiyuu%20no%20Tsubasa.md)
+- **Autores:** [Linked Horizon](../Autores/Linked%20Horizon.md)
+
+## K - KIZUNA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KZ16Vf5_kU?si=AsRrf_PT4z4cJN3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [KIZUNA](../Músicas/KIZUNA.md)
+- **Autores:** [angela](../Autores/angela.md)
+
+## L - LOST IN PARADISE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tLsJQ5srVQA?si=YE8kArsDxuOyC7hg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [LOST IN PARADISE](../Músicas/LOST%20IN%20PARADISE.md)
+- **Autores:** [ALI](../Autores/ALI.md) feat. [AKLO](../Autores/AKLO.md)
+
+## M - Mayonaka no Door - stay with me
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lags8E4hvow?si=g9XL9-bji8aWtMR2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Mayonaka no Door - stay with me](Mayonaka%20no%20Door%20-%20stay%20with%20me)
+- **Autores:** [Miki Matsubara](Miki%20Matsubara)
