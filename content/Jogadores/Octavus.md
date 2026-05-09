@@ -3,7 +3,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ypl1JbdSvJs?si=PySSWposYUGTj0ml" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - **Música:** [Aishite, Aishite, Aishite](../Músicas/Aishite,%20Aishite,%20Aishite.md)
-- **Autores:** [Hastune Miku](../Autores/Hastune%20Miku.md)
+- **Autores:** [Kikuo](../Autores/Kikuo.md) [Hastune Miku](../Autores/Hastune%20Miku.md)
 
 ## B - Brave Shine
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XeI8E20ZUE4?si=HQEzLIPkBOAShCVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -70,3 +70,39 @@
 
 - **Música:** [Lilium](../Músicas/Lilium.md)
 - **Autores:** [Kumiko Noma](../Autores/Kumiko%20Noma.md)
+
+## M - Make My Story
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W-d3kAf2NYw?si=OJW5G7AOBzZcSAQi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Make My Story](../Músicas/Make%20My%20Story.md)
+- **Autores:** [Lenny Code Fiction](../Autores/Lenny%20Code%20Fiction.md)
+
+## N - Naked Hero
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dWZAH5w8jkQ?si=ThPn5kF66uhTLHqj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Naked Hero](../Músicas/Naked%20Hero.md)
+- **Autores:** [Vaundy](../Autores/Vaundy.md)
+
+## O - One Day
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-heWF6Nln7c?si=H_M-A4G4fNUqM4DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [One Day](../Músicas/One%20Day.md)
+- **Autores:** [The rootless](../Autores/The%20rootless.md)
+
+## P - Please, please!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/To_dQ2oMqA0?si=LwIAsACaBzQJaLWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Please, please!](../Músicas/Please,%20please!.md)
+- **Autores:** [Ayaka Ohashi](../Autores/Ayaka%20Ohashi.md)
+
+## Q - Quiet Night C.E.73
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fmYOSFii-C8?si=w0zQx9I37qCXfi0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Quiet Night C.E.73](../Músicas/Quiet%20Night%20C.E.73.md)
+- **Autores:**  [MEER CAMPBELL](../Autores/MEER%20CAMPBELL.md) e [Rie Tanaka](../Autores/Rie%20Tanaka.md)
+
+## R - Re:Re:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fodAJ-1dN3I?si=WJLgYmkUU4TTb4tM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Re:Re:](../Músicas/ReRe.md)
+- **Autores:** [Asian Kung-Fu Generation](../Autores/Asian%20Kung-Fu%20Generation.md)

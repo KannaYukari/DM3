@@ -70,3 +70,27 @@
 
 - **Música:** [Mayonaka no Door - stay with me](../Músicas/Mayonaka%20no%20Door%20-%20stay%20with%20me.md)
 - **Autores:** [Miki Matsubara](../Autores/Miki%20Matsubara.md)
+
+## O - Otonoke
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a4na2opArGY?si=SRS15GbCzlvct1Oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Otonoke](../Músicas/Otonoke.md)
+- **Autores:** [Creepy Nuts](../Autores/Creepy%20Nuts.md)
+
+## P - Papermoon
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-eYK3YP524A?si=eKzMdpGXLSyAHZbm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Papermoon](../Músicas/Papermoon.md)
+- **Autores:** [Tommy heavenly6](../Autores/Tommy%20heavenly6.md)
+
+## Q - Q?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oBTxxpYre3g?si=1bRMtIExfqQIXGMl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Q?](../Músicas/Q?.md)
+- **Autores:** [Reol](../Autores/Reol.md)
+
+## R - Rolling Star
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L1RG1YqWwuo?si=Fj6JICO-gjJ_3JG_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Rolling Star](../Músicas/Rolling%20Star.md)
+- **Autores:** [YUI](../Autores/YUI.md)

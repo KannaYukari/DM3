@@ -62,3 +62,33 @@
 
 - **Música:** [My War](../Músicas/My%20War.md)
 - **Autores:** [Shinsei Kamattechan](../Autores/Shinsei%20Kamattechan.md)
+
+## N - Natural Woman
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1NuxUC2Iz7Y?si=NFltdaZXkZVx9Zan" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Natural Woman](../Músicas/Natural%20Woman.md)
+- **Autores:** [VK Blanka](../Autores/VK%20Blanka.md)
+
+## O - Orange
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jRFk22ENWNg?si=_l_S5NZzapgwPEN_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Orange](../Músicas/Orange.md)
+- **Autores:** [7!!](../Autores/7!!.md)
+
+## P - Polaris
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Isb7Q4jEA04?si=Eml08oqQdINAaUyv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Polaris](../Músicas/Polaris.md)
+- **Autores:** [BLUE ENCOUNT](../Autores/BLUE%20ENCOUNT.md)
+
+## Q - QUESTION
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6DrKJzuH7M8?si=ZlZtgvdlscfvuLIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [QUESTION](../Músicas/QUESTION.md)
+- **Autores:** [3 Nen E Gumi Uta Tan](../Autores/3%20Nen%20E%20Gumi%20Uta%20Tan.md)
+
+## R - Redo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R9i8nVS2NCA?si=VAhMaQoJF0beX6q5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Redo](../Músicas/Redo.md)
+- **Autores:** [Suzuki Konomi](../Autores/Suzuki%20Konomi.md)

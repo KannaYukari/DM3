@@ -76,3 +76,33 @@
 
 - **Música:** [Morning Grace](../Músicas/Morning%20Grace.md)
 - **Autores:** [Ritsuko Okazaki](../Autores/Ritsuko%20Okazaki.md)
+
+## N - No.7
+<iframe width="560" height="315" src="https://www.youtube.com/embed/da3bYroZNSE?si=eVK4ARh39F6j_piF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [No.7](../Músicas/No.7.md)
+- **Autores:** [Jibaku Shounen Band](../Autores/Jibaku%20Shounen%20Band.md)
+
+## O - Otsukare summer
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ViFHruS6oO8?si=6v8SF1gU_Us-cvgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Otsukare summer](../Músicas/Otsukare%20summer.md)
+- **Autores:** [HALCALI](../Autores/HALCALI.md)
+
+## P - Parade
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APIKVLw1tT0?si=6v1i4p6G6JGTm9k0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Parade](../Músicas/Parade.md)
+- **Autores:** [Susumu Hirasawa](../Autores/Susumu%20Hirasawa.md)
+
+## Q - Q&A Recital!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bc7xJgW8URc?si=_PlUKVLFzsn4sQ1G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Q&A Recital!](../Músicas/Q&A%20Recital!.md)
+- **Autores:** [Haruka Tomatsu](../Autores/Haruka%20Tomatsu.md)
+
+## R - Rin! Rin! Hi! Hi!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SC049QkHuKk?si=p_0WMwfnUUyeXEOJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Rin! Rin! Hi! Hi!](../Músicas/Rin!%20Rin!%20Hi!%20Hi!.md)
+- **Autores:** [Hashiguchikanaderiya The Super Ball](../Autores/Hashiguchikanaderiya%20The%20Super%20Ball.md)

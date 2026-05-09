@@ -70,3 +70,27 @@
 
 - **Música:** [Monophobia](../Músicas/Monophobia.md)
 - **Autores:** [Moi dix Mois](../Autores/Moi%20dix%20Mois.md)
+
+## N - Namahage
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CLoUY1kA4ZY?si=i0_xKfpxMIXVMAj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Namahage](../Músicas/Namahage.md)
+- **Autores:** [Ningen Isu](../Autores/Ningen%20Isu.md)
+
+## P - Plastic Love
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T_lC2O1oIew?si=uVywcOJB51Jdom_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Plastic Love](../Músicas/Plastic%20Love.md)
+- **Autores:** [Mariya Takeuchi](../Autores/Mariya%20Takeuchi.md)
+
+## Q - QUEEN
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KFCaSz_yYCM?si=fsuc9dfdbtmwmvkD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [QUEEN](../Músicas/QUEEN.md)
+- **Autores:** [Kanaria](../Autores/Kanaria.md) e [GUMI](../Autores/GUMI.md) 
+
+## R - Remember Summer Days
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZlnBW-MJh0?si=FMmniYovIynN9rhR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Remember Summer Days](../Músicas/Remember%20Summer%20Days.md)
+- **Autores:** [Anri](../Autores/Anri.md)

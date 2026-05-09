@@ -70,3 +70,39 @@
 
 - **Música:** [LIVE for LIFE](../Músicas/LIVE%20for%20LIFE.md)
 - **Autores:** [Aimi](../Autores/Aimi.md)
+
+## M - Mousou♡Express
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VT5gSCjz-yI?si=0GpHCkEtjDG9MVb_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Mousou♡Express](../Músicas/Mousou♡Express.md)
+- **Autores:** Nadeko Sengoku ([Kana Hanazawa](../Autores/Kana%20Hanazawa.md))
+
+## N - Nanairo Symphony
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pS7Hbxv2E_E?si=dK0MOnSA6__BqZvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Nanairo Symphony](../Músicas/Nanairo%20Symphony.md)
+- **Autores:** [COALAMODE.](../Autores/COALAMODE..md)
+
+## O - Oshogatsu
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TQN5kyyyiZ8?si=UkcI2VVSOisEzhvn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Oshogatsu](../Músicas/Oshogatsu.md)
+- **Autores:** [Daisuki Achiwa](../Autores/Daisuki%20Achiwa.md)
+
+## P - Perfect Slumbers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MdMH9K4L-4g?si=nDtSVrvbMc6vXtIN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Perfect Slumbers](../Músicas/Perfect%20Slumbers.md)
+- **Autores:** Hanekawa Tsubasa ([Yui Horie](../Autores/Yui%20Horie.md))
+
+## Q - Que ela vem
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u_Oset0U8Zw?si=0T5mL9Tw9tUxmrCv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Que ela vem](../Músicas/Que%20ela%20vem.md)
+- **Autores:** [ShibayanRecords](../Autores/ShibayanRecords.md)
+
+## R - rAwTell Owk...
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iXjR91FkiI4?si=Q2Z3kv73xi2V3RsF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [rAwTell Owk...](../Músicas/rAwTell%20Owk....md)
+- **Autores:** [Yusuke Kondo](../Autores/Yusuke%20Kondo.md)
