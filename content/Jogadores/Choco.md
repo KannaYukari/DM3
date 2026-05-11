@@ -106,3 +106,15 @@
 
 - **Música:** [Rin! Rin! Hi! Hi!](../Músicas/Rin!%20Rin!%20Hi!%20Hi!.md)
 - **Autores:** [Hashiguchikanaderiya The Super Ball](../Autores/Hashiguchikanaderiya%20The%20Super%20Ball.md)
+
+## S - Sorairo Days
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-NRhWg3uY8?si=_4r2vWCVIa7ojYaT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Sorairo Days](../Músicas/Sorairo%20Days.md)
+- **Autores:** [Shoko Nakagawa](../Autores/Shoko%20Nakagawa.md)
+
+## T - That Classmate
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GVUlHIa12lI?si=itqRA2Z4sk2d5oXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [That Classmate](../Músicas/That%20Classmate.md)
+- **Autores:** [Mulasaki Ima](../Autores/Mulasaki%20Ima.md)

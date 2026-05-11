@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62400d096aae6e1b",
+            "id": "767d556cc738b1d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "content/Músicas/Treachery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Treachery"
             }
           }
         ]
@@ -163,34 +167,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62400d096aae6e1b",
+  "active": "ea1ee029bfa1176f",
   "lastOpenFiles": [
-    "content/Músicas/rAwTell Owk....md",
-    "content/Músicas/Redo.md",
-    "content/Músicas/Remember Summer Days.md",
-    "content/Autores/Yusuke Kondo.md",
-    "content/Autores/Anri.md",
+    "content/Autores/Shiro SAGISU.md",
+    "content/Músicas/Treachery.md",
+    "content/Músicas/the last day of my adolescence.md",
+    "content/Autores/Miyuki Sawashiro.md",
     "content/Jogadores/Kanna.md",
-    "content/Jogadores/Octavus.md",
-    "content/Músicas/ReRe.md",
-    "content/Autores/Asian Kung-Fu Generation.md",
-    "content/Autores/Kikuo.md",
-    "content/Músicas/Rolling Star.md",
-    "content/Autores/YUI.md",
-    "content/Jogadores/Buzo.md",
-    "content/Jogadores/Harkett.md",
-    "content/Jogadores/Choco.md",
-    "content/Músicas/Rin! Rin! Hi! Hi!.md",
-    "content/Autores/Hashiguchikanaderiya The Super Ball.md",
-    "content/Autores/Suzuki Konomi.md",
     "content/Jogadores/Gench.md",
-    "content/Autores/Reol.md",
-    "content/Músicas/Papermoon.md",
-    "content/Músicas/QUEEN.md",
-    "content/Autores/3 Nen E Gumi Uta Tan.md",
-    "content/Autores/GUMI.md",
+    "content/Músicas/That Classmate.md",
+    "content/Autores/Mulasaki Ima.md",
+    "content/Jogadores/Choco.md",
     "templates/envio.md",
-    "content/Autores/Rie Tanaka.md",
+    "content/Músicas/Still Doll.md",
+    "content/Autores/Shoko Nakagawa.md",
+    "content/Músicas/Sorairo Days.md",
+    "content/Músicas/seisyun complex.md",
+    "content/Autores/Alisa Okehazama.md",
+    "content/Músicas/Staple staple.md",
+    "content/Autores/Chiwa Saitou.md",
+    "content/Músicas/SPECIALZ.md",
+    "content/Autores/King Gnu.md",
+    "content/Jogadores/Buzo.md",
+    "content/Autores/Kanon Wakeshima.md",
+    "content/Jogadores/Harkett.md",
+    "content/Autores/kessoku band.md",
+    "content/Jogadores/Octavus.md",
+    "content/Músicas/Self-Embodiment Of Perfection.md",
+    "content/Músicas/rAwTell Owk....md",
     "Jogadores"
   ]
 }

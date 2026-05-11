@@ -106,3 +106,9 @@
 
 - **Música:** [Re:Re:](../Músicas/ReRe.md)
 - **Autores:** [Asian Kung-Fu Generation](../Autores/Asian%20Kung-Fu%20Generation.md)
+
+## S - seisyun complex
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7FDRQifEMUQ?si=MAyvtJm0eLOeZR1t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [seisyun complex](../Músicas/seisyun%20complex.md)
+- **Autores:** [kessoku band](../Autores/kessoku%20band.md)

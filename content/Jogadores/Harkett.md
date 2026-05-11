@@ -94,3 +94,9 @@
 
 - **Música:** [Remember Summer Days](../Músicas/Remember%20Summer%20Days.md)
 - **Autores:** [Anri](../Autores/Anri.md)
+
+## S - Still Doll
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZOA7c1HYcI?si=fGB-FzchBYeTs-g3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Still Doll](../Músicas/Still%20Doll.md)
+- **Autores:** [Kanon Wakeshima](../Autores/Kanon%20Wakeshima.md)

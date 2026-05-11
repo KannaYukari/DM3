@@ -106,3 +106,15 @@
 
 - **Música:** [rAwTell Owk...](../Músicas/rAwTell%20Owk....md)
 - **Autores:** [Yusuke Kondo](../Autores/Yusuke%20Kondo.md)
+
+## S - Staple staple
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YG2_wmWc_QY?si=8crZ_aBUZnqxqz9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Staple staple](../Músicas/Staple%20staple.md)
+- **Autores:** Senjougahara Hitagi ([Chiwa Saitou](../Autores/Chiwa%20Saitou.md)) 
+
+## T - the last day of my adolescence
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i27cViremYM?si=Nqdh6Dksd7g6NmBO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [the last day of my adolescence](../Músicas/the%20last%20day%20of%20my%20adolescence.md)
+- **Autores:** Kanbaru Suruga ([Miyuki Sawashiro](../Autores/Miyuki%20Sawashiro.md))
