@@ -77,6 +77,12 @@
 - **Música:** [Namahage](../Músicas/Namahage.md)
 - **Autores:** [Ningen Isu](../Autores/Ningen%20Isu.md)
 
+## O - Onegai! Kon kon Oinarisama
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d0oPe63T6ek?si=gi9NxxjSKkyvAQV9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Onegai! Kon kon Oinarisama](../Músicas/Onegai!%20Kon%20kon%20Oinarisama.md)
+- **Autores:** [Nanahira](../Autores/Nanahira.md)
+
 ## P - Plastic Love
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T_lC2O1oIew?si=uVywcOJB51Jdom_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -140,5 +146,5 @@
 ## Z - Zetsubou Billy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B_vvv1oPnKY?si=iXlAgU17A20RNoE9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Zetsubou Billy](Zetsubou%20Billy)
-- **Autores:** [MAXIMUM THE HORMONE](MAXIMUM%20THE%20HORMONE)
+- **Música:** [Zetsubou Billy](../Músicas/Zetsubou%20Billy.md)
+- **Autores:** [MAXIMUM THE HORMONE](../Autores/MAXIMUM%20THE%20HORMONE.md)
