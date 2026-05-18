@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Autores/Zundamon.md",
+                "file": "content/Autores/Kotoko.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zundamon"
+              "title": "Kotoko"
             }
           }
         ]
@@ -169,10 +169,15 @@
   },
   "active": "ea1ee029bfa1176f",
   "lastOpenFiles": [
+    "content/Músicas/Ao No Sumika.md",
+    "content/Jogadores/Gench.md",
+    "content/Músicas/Being.md",
+    "content/Autores/Kotoko.md",
+    "content/Autores/Tatsuya Kitani.md",
+    "content/Autores/Zundamon.md",
     "content/Músicas/Zundoko☆Dondondon!.md",
     "content/Jogadores/Kanna.md",
     "content/Autores/Minami no Minami.md",
-    "content/Autores/Zundamon.md",
     "content/Jogadores/Octavus.md",
     "content/Jogadores/Harkett.md",
     "content/Músicas/Zoetrope.md",
@@ -181,7 +186,6 @@
     "content/Músicas/Onegai! Kon kon Oinarisama.md",
     "content/Autores/Nanahira.md",
     "content/Músicas/Kamisama Onegai.md",
-    "content/Jogadores/Gench.md",
     "content/Jogadores/Choco.md",
     "content/Jogadores/Buzo.md",
     "content/Músicas/Zetsubou Billy.md",
@@ -192,10 +196,6 @@
     "content/Músicas/Zankoku na Tenshi no Te-ze.md",
     "content/Autores/yanaginagi.md",
     "templates/envio.md",
-    "content/Autores/Yokan.md",
-    "content/Músicas/Yume Utsutsu.md",
-    "content/Autores/Yuzuki Yukari.md",
-    "content/Músicas/Yume no Ito.md",
     "Jogadores"
   ]
 }
