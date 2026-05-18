@@ -100,3 +100,45 @@
 
 - **Música:** [Still Doll](../Músicas/Still%20Doll.md)
 - **Autores:** [Kanon Wakeshima](../Autores/Kanon%20Wakeshima.md)
+
+## T - True
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rZjlIKiCj3g?si=e7_41zasPfwpUial" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [True](../Músicas/True.md)
+- **Autores:** [Existtrace](../Autores/Existtrace.md)
+
+## U - Ultimate 4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ZnMNXAoOuY?si=eS1X5-uOFWw0H7Bp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Ultimate 4](../Músicas/Ultimate%204.md)
+- **Autores:** [Girugamesh](../Autores/Girugamesh.md)
+
+## V - V.I.P
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iCGfYDhSCxU?si=PQ2SGU1QkVOJkpz7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [V.I.P](../Músicas/V.I.P.md)
+- **Autores:** [Nocturnal Bloodlust](../Autores/Nocturnal%20Bloodlust.md)
+
+## W - Wakusei Tantra
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BxNJprNAbI8?si=hV1iznL24kcHv5a3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Wakusei Tantra](../Músicas/Wakusei%20Tantra.md)
+- **Autores:** [Mondo Grosso](../Autores/Mondo%20Grosso.md)
+
+## X - X-treme Fight
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lgvm18SMZ9s?si=Wug0FjpZ_kTHClqG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [X-treme Fight](../Músicas/X-treme%20Fight.md)
+- **Autores:** [Takayoshi Tanimoto](../Autores/Takayoshi%20Tanimoto.md)
+
+## Y - Yokan
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O_aHOeX_yIo?si=7z9PPFRXn76wx7Nd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Yokan](../Autores/Yokan.md)
+- **Autores:** [Dir En Grey](../Autores/Dir%20En%20Grey.md)
+
+## Z - Zetsubou Billy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B_vvv1oPnKY?si=iXlAgU17A20RNoE9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Zetsubou Billy](Zetsubou%20Billy)
+- **Autores:** [MAXIMUM THE HORMONE](MAXIMUM%20THE%20HORMONE)

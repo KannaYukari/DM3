@@ -118,3 +118,33 @@
 
 - **Música:** [the last day of my adolescence](../Músicas/the%20last%20day%20of%20my%20adolescence.md)
 - **Autores:** Kanbaru Suruga ([Miyuki Sawashiro](../Autores/Miyuki%20Sawashiro.md))
+
+## U - Undine
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3EIULHTeTrk?si=tBi_WcjlGNED2Ui2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Undine](../Músicas/Undine.md)
+- **Autores:** [Yui Makino](../Autores/Yui%20Makino.md)
+
+## V - Van!shment th!s world
+<iframe width="560" height="315" src="https://www.youtube.com/embed/--TrbL-17xk?si=Hbd6756_QXej5H6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Van!shment th!s world](../Músicas/Van!shment%20th!s%20world.md)
+- **Autores:** [Black Raison d'être](../Autores/Black%20Raison%20d'être.md)
+
+## W - Wan Wan Wan Wan N_1!!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4bvDhyUIsik?si=gIX1oagxylVpW9Wk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Wan Wan Wan Wan N_1!!](../Músicas/Wan%20Wan%20Wan%20Wan%20N_1!!.md)
+- **Autores:** [Inu Musume Club](../Autores/Inu%20Musume%20Club.md)
+
+## X - XL-TT
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P746XQJyjfA?si=nhDTtzFe2B8No-M3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [XL-TT](../Músicas/XL-TT.md)
+- **Autores:** [Hiroyuki Sawano](../Autores/Hiroyuki%20Sawano.md)
+
+## Y - Yukari
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J1c6iCI3w3k?si=6ORcAqCG1UWRHVee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Yukari](../Músicas/Yukari.md)
+- **Autores:** [Yuzuki Yukari](../Autores/Yuzuki%20Yukari.md) e [Yokomin](../Autores/Yokomin.md)

@@ -16,4 +16,5 @@ Regras da brincadeira:
 - [Buzo](Jogadores/Buzo.md)
 - [Harkett](Jogadores/Harkett.md)
 - [Gench](Jogadores/Gench.md)
+- [Uremashi](Jogadores/Uremashi.md)
 

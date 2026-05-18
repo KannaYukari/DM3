@@ -118,3 +118,39 @@
 
 - **Música:** [That Classmate](../Músicas/That%20Classmate.md)
 - **Autores:** [Mulasaki Ima](../Autores/Mulasaki%20Ima.md)
+
+## U - Uso No Hibana
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5DhE_5AWnQM?si=QratfiQ7_sKIWeGl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Uso No Hibana](../Músicas/Uso%20No%20Hibana.md)
+- **Autores:** [Kuroneko](../Autores/Kuroneko.md)
+
+## V - Vital
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CAWl-zvIKXg?si=cmRFXmBJ5IqtS_Th" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Vital](../Músicas/Vital.md)
+- **Autores:** [Masaaki Endoh](../Autores/Masaaki%20Endoh.md)
+
+## W - White kiss
+<iframe width="560" height="315" src="https://www.youtube.com/embed/blJqVQj3Ub8?si=tz5evDyyWJmVa7vz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [White kiss](../Músicas/White%20kiss.md)
+- **Autores:** Snow White (cv: [Syouta Aoi](../Autores/Syouta%20Aoi.md))
+
+## X - X (Remaster)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H1DpYC7lOrA?si=XM3wPtqwWbGKArr7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [X (Remaster)](../Músicas/X%20(Remaster).md)
+- **Autores:** [X JAPAN](../Autores/X%20JAPAN.md)
+
+## Y - Yume Utsutsu
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AJdTBPuZkHU?si=2wCBYp-nmNsrdL58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Yume Utsutsu](../Músicas/Yume%20Utsutsu.md)
+- **Autores:** [Lamp](../Autores/Lamp.md)
+
+## Z - Zoetrope
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cpxjCG3-S0I?si=XngPQ4TmyFiKmwbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Zoetrope](Zoetrope)
+- **Autores:** [yanaginagi](yanaginagi)

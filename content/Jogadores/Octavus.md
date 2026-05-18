@@ -112,3 +112,21 @@
 
 - **Música:** [seisyun complex](../Músicas/seisyun%20complex.md)
 - **Autores:** [kessoku band](../Autores/kessoku%20band.md)
+
+## T - Trust in you
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BL0YK8jryK0?si=4AMoQyVnElstmK4_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Trust in you](../Músicas/Trust%20in%20you.md)
+- **Autores:** [Sweet arms](../Autores/Sweet%20arms.md)
+
+## U - Uragirinoyuuyake
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OTXYhpXezQ8?si=xP_E2ZHLag6ypFoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Uragirinoyuuyake](../Músicas/Uragirinoyuuyake.md)
+- **Autores:** [Theatre Brook](../Autores/Theatre%20Brook.md)
+
+## V - VOICE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wr1OoJ1DH5I?si=wqrZ0tYy6b96HOIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [VOICE](../Músicas/VOICE.md)
+- **Autores:** [ZAQ](../Autores/ZAQ.md)

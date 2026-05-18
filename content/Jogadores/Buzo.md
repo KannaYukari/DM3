@@ -100,3 +100,45 @@
 
 - **Música:** [SPECIALZ](../Músicas/SPECIALZ.md)
 - **Autores:** [King Gnu](../Autores/King%20Gnu.md)
+
+## T - The World
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vqSG1A35ih4?si=L-36WcP2OYMiNEYv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [The World](../Músicas/The%20World.md)
+- **Autores:** [Nightmare](../Autores/Nightmare.md)
+
+## U - under star
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-LD0SUdJfeU?si=gEjKV1Oba_nN-85O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [under star](../Músicas/under%20star.md)
+- **Autores:** [Shocking Lemon](../Autores/Shocking%20Lemon.md)
+
+## V - Vivid Vice
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LFTE4W--Htk?si=uepRP3L8ecjS7Ibw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Vivid Vice](../Músicas/Vivid%20Vice.md)
+- **Autores:** [Who-ya](../Autores/Who-ya.md)
+
+## W - We Are!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YoeP9w5UIlg?si=h_TtLvs1mRktHCQi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [We Are!](../Músicas/We%20Are!.md)
+- **Autores:** [Hiroshi Kitadani](../Autores/Hiroshi%20Kitadani.md)
+
+## X - XY&Z
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tki1JGb2r9Y?si=y82SezDYUtUCPLHz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [XY&Z](../Músicas/XY&Z.md)
+- **Autores:** [Rica Matsumoto](../Autores/Rica%20Matsumoto.md)
+
+## Y - Yume Tourou
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LnTm3AB7rwg?si=P5PXawNctn2PhnhK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Yume Tourou](../Músicas/Yume%20Tourou.md)
+- **Autores:** [RADWIMPS](../Autores/RADWIMPS.md)
+
+## Z - Zankoku na Tenshi no Te-ze
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o6wtDPVkKqI?si=8DOgyiqZzxZTotQ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Zankoku na Tenshi no Te-ze](Zankoku%20na%20Tenshi%20no%20Te-ze)
+- **Autores:** [Yoko Takahashi](Yoko%20Takahashi)

@@ -104,3 +104,39 @@
 
 - **Música:** [Treachery](../Músicas/Treachery.md)
 - **Autores:** [Shiro SAGISU](../Autores/Shiro%20SAGISU.md)
+
+## U - Usubeni
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZQkCktP8TS8?si=jXQ9F7JimNIfojw-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Usubeni](../Músicas/Usubeni.md)
+- **Autores:** [LACCO TOWER](../Autores/LACCO%20TOWER.md)
+
+## V - ViViD
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uydKjaNJPbs?si=WsHTmMhw90llx1UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [ViViD](../Músicas/ViViD.md)
+- **Autores:** [May'n](../Autores/May'n.md)
+
+## W - winning the soul
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78wEqO-Nia0?si=LuA9hsi8S0SePcB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [winning the soul](../Músicas/winning%20the%20soul.md)
+- **Autores:** Tokai Teio (CV: [Machico](../Autores/Machico.md))
+
+## X - Xevel (Platinum Long Ver.)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-hyVWjo39og?si=xKdfMFqYzDhWZQeL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Xevel (Platinum Long Ver.)](../Músicas/Xevel%20(Platinum%20Long%20Ver.).md)
+- **Autores:** [Tatsh](../Autores/Tatsh.md)
+
+## Y - Yume no Ito
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F0JG5CqtAiU?si=4sASNT6vNkqHxEA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Yume no Ito](../Músicas/Yume%20no%20Ito.md)
+- **Autores:** [Akari Kito](../Autores/Akari%20Kito.md)
+
+## Z - Zero / 零-zero-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DwDiwf49Rlc?si=yPzHQiT7f4xwzi4r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Zero / 零-zero-](Zero%20|%20零-zero-)
+- **Autores:** [tuki.](tuki.)
